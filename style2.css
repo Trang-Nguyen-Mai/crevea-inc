@@ -1,0 +1,318 @@
+@media only screen and (max-width: 600px){
+   .bg-primary{
+        background-color: white !important; 
+    }
+    .fa-search {
+        color: black !important;
+    }
+    .navbar-brand {
+        color: blue !important;
+    }
+    .nav-link {
+        color: black !important;
+    } 
+    .custom-toggler .navbar-toggler-icon {
+        background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgb(180, 180, 180)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+    }
+    .title {
+        margin-top: 60px;
+        margin-bottom: 30px;
+        text-align: center;
+        font-size: 30px;
+    }
+    .center {
+       text-align: center;
+       width: 100%;
+       margin-bottom: 60px;
+    }
+    .col-lg-5 {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .table {
+        display: none;
+    }
+    .intro {
+        margin-left: 30px;
+        width: 350px;
+    }
+    article {
+        width: 350px;
+    }
+    .founder {
+        width: 150px;
+        margin-left: 30px;
+    }
+    .founder-1 {
+        width: 150px;
+    }
+    .name {
+        margin-bottom: 1px;
+    }
+    footer {
+        margin-right: 0;
+        padding-right: 0;
+        margin-top: 50px;
+        font-family: sans-serif;
+        color: white;
+        background-color: #1f1f14;
+        font-size: 16px;
+    }
+    .custom-row {
+        margin-left: 30px;
+        padding-top: 40px;
+    }
+    .foot {
+        text-align: center;
+        border-top: 1px solid white;
+        padding: 10px 0 5px 0;
+        font-weight: 200;
+        font-size: 14px;
+    }
+    .underline {
+        border-bottom: 1px solid white;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    .email {
+        background-color: #1f1f14;
+        width: 270px;
+        border: none;
+    }
+    .btn-light {
+        height: 25px;
+        margin-top: 8px;
+        padding: 0 5px 0 5px;
+        font-size: 14px;
+        border-radius: 0;
+    }
+    .custom-col {
+        width: 350px;
+    }
+    .custom-col-2 {
+        width: 350px;
+    }
+    .custom-col-3 {
+        width: 350px;
+    }
+}
+@media only screen and (min-device-width: 768px) {
+    .navbar-brand {
+        margin: 0 120px 0 30px;
+    }
+    .nav-item{
+        margin-top: 12px;
+    }
+    .fa-search {
+       margin-right: 20px; 
+    }
+    .title {
+        margin-top: 30px;
+        margin-bottom: 10px;
+        text-align: center;
+        font-size: 30px;
+    }
+    .center {
+        margin-bottom: 40px;
+        text-align: center;
+        width: 100%;
+    }
+    .custom-row-1 {
+        margin-left: 10px;
+    }
+    .col-lg-5 {
+        margin: 20px 20px 0 20px !important;
+        padding: 0 0 0 0 !important;
+        font-size: 16px;
+    }
+    .table {
+        margin-left: 20px;
+        font-size: 16px;
+    }
+    .founder {
+        width: 150px;
+        margin-left: 20px;
+    }
+    .founder-1 {
+        width: 150px;
+    }
+    .name {
+        margin-bottom: 1px;
+    }
+    .job {
+        margin-bottom: 40px;
+    }
+    .intro {
+        display: none;
+    }
+    footer {
+        font-family: sans-serif;
+        color: white;
+        background-color: #1f1f14;
+        font-size: 16px;
+    }
+    .custom-row {
+        margin-left: 30px;
+        padding-top: 18px;
+    }
+    .foot {
+        text-align: center;
+        border-top: 1px solid white;
+        padding: 10px 0 5px 0;
+        font-weight: 200;
+        font-size: 14px;
+    }
+    .underline {
+        border-bottom: 1px solid white;
+        border-radius: 5px;
+        margin-bottom: 10px;
+    }
+    .email {
+        background-color: #1f1f14;
+        width: 640px;
+        border: none;
+    }
+    .btn-light {
+        height: 25px;
+        margin-top: 8px;
+        padding: 0 5px 0 5px;
+        font-size: 14px;
+        border-radius: 0;
+    }
+    .custom-col {
+        width: 700px;
+    }
+    .custom-col-2 {
+        width: 700px;
+    }
+    .custom-col-3 {
+        width: 700px;
+    }
+}
+@media only screen and (min-width: 1200px) {
+    .navbar-brand {
+        margin-left: 270px;
+        margin-right: 393px;
+    }
+    .nav-item{
+        margin-top: 0;
+    }
+    .fa-search {
+        margin-right: 100px;
+    }
+    .custom-row-1 {
+        margin-left: 250px;
+    }
+    .col-lg-5 {
+        margin: 20px 0 0 20px !important;
+        padding: 0 0 0 0 !important;
+    }
+    .title {
+        text-align: center;
+        margin-top: 30px;
+    }
+   .center {
+       text-align: center;
+       width: 100%;
+    }
+    .des {
+        font-size: 12px;
+    }
+    .founder {
+        width: 150px;
+        margin-left: 300px;
+    }
+    .founder-1 {
+        width: 150px;
+    }
+    .name {
+        margin-bottom: 1px;
+    }
+    table {
+        margin-left: 8px;
+    }
+    .intro {
+        display: none;
+    }
+    footer {
+        font-family: sans-serif;
+        color: white;
+        background-color: #1f1f14;
+        font-size: 12px;
+    }
+    .custom-row {
+        margin-left: 270px;
+    }
+    .custom-col {
+        width: 250px !important;
+    }
+    .custom-col-2 {
+        width: 200px; 
+    }
+    .custom-col-3 {
+        width: 260px;
+    }
+    .foot {
+        text-align: center;
+        border-top: 1px solid white;
+        padding: 0 0 5px 0;
+        font-weight: 200;
+        font-size: 14px;
+    }
+    .underline {
+        border-bottom: 1px solid white;
+        border-radius: 5px;
+    }
+    .email {
+        background-color: #1f1f14;
+        width: 200px;
+        border: none;
+    }
+    .btn-light {
+        height: 25px;
+        margin-top: 8px;
+        padding: 0 5px 0 5px;
+        font-size: 14px;
+        border-radius: 0;
+    }
+}
+body {
+    overflow-x: hidden;
+}
+.fa-search {
+    color: white;
+}
+.fa-window-minimize {
+    color: blue;
+}
+a {
+    color: white;
+}
+a:hover {
+    color: orange !important;
+    text-decoration: none;
+}
+.heading {
+    font-weight: 900;
+}
+span {
+    font-weight: 900;
+}
+.name {
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+}
+.job {
+    text-align: center;
+    font-size: 14px;
+}
+.website {
+    color: orange;
+}
+table {
+    font-size: 12px;
+}
+.title {
+    font-weight: bold;
+}
